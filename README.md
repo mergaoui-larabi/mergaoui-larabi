@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Larbi Mergaoui
+<h1 align="center">👋 Hi, I'm Larbi Mergaoui</h1>
 
-🚀 Full-Stack Developer | Backend & Systems-Oriented Engineer
+<h3 align="center">🚀 Full-Stack Developer | Backend & Systems-Oriented Engineer</h3>
 
 ---
 
@@ -15,66 +15,87 @@ I enjoy working across the stack and also closer to the system level: servers, c
 ## 🛠️ Tech Stack
 
 ### Backend
-- Java (Spring Boot)
-- Node.js
-- Go
-- Rust
-- REST APIs & Microservices
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java" height="35" /> Java (Spring Boot)  
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="35" /> Node.js  
+  <br/>
+  <img src="https://skillicons.dev/icons?i=go" height="35" /> Go  
+  <br/>
+  <img src="https://skillicons.dev/icons?i=rust" height="35" /> Rust  
+  <br/>
+  🧩 REST APIs & Microservices  
+</p>
+
+---
 
 ### Frontend
-- JavaScript / TypeScript
-- Next.js
-- Angular
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js" height="35" /> JavaScript / TypeScript  
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="35" /> Next.js  
+  <br/>
+  <img src="https://skillicons.dev/icons?i=angular" height="35" /> Angular  
+</p>
+
+---
 
 ### DevOps & Infrastructure
-- Docker (containerization, images, networking)
-- Linux system administration
-- Basic server setup & deployment
-- Environment configuration & process management
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" height="35" /> Docker (containerization, networking)  
+  <br/>
+  <img src="https://skillicons.dev/icons?i=linux" height="35" /> Linux system administration  
+</p>
+
+---
 
 ### Core Concepts
-- System design fundamentals
-- Authentication & security basics
-- Concurrency & performance (Go / Rust)
-- Backend architecture & scaling
+
+- System design fundamentals  
+- Authentication & security basics  
+- Concurrency & performance (Go / Rust)  
+- Backend architecture & scaling  
 
 ---
 
 ## 🧩 What I’m Interested In
 
-- Backend systems & distributed architecture
-- Containers & deployment workflows
-- Operating system internals & Linux systems
-- JVM internals & Spring Framework internals
-- Performance-focused engineering (Go / Rust)
+- Backend systems & distributed architecture  
+- Containers & deployment workflows  
+- Operating system internals & Linux systems  
+- JVM internals & Spring Framework internals  
+- Performance-focused engineering (Go / Rust)  
 
 ---
 
 ## 🧰 Tools & Workflow
 
-- Git & GitHub
-- Docker
-- Linux
-- Maven / npm / Go modules
-- Postman
+- Git & GitHub  
+- Docker  
+- Linux  
+- Maven / npm / Go modules  
+- Postman  
 
 ---
 
 ## 📈 Goals
 
-- Build production-ready scalable systems
-- Master system design & backend architecture
-- Improve DevOps and deployment skills
-- Contribute to open-source projects
-- Deep dive into system-level engineering
+- Build production-ready scalable systems  
+- Master system design & backend architecture  
+- Improve DevOps and deployment skills  
+- Contribute to open-source projects  
+- Deep dive into system-level engineering  
 
 ---
 
 ## 📫 Contact
 
-- GitHub: @mergaoui-larabi
-- LinkedIn: https://www.linkedin.com/in/larbi-mergaoui-8185a1331
-- Email: mergaouiarbi@gmail.com
+- GitHub: @mergaoui-larabi  
+- LinkedIn: https://www.linkedin.com/in/larbi-mergaoui-8185a1331  
+- Email: mergaouiarbi@gmail.com  
 
 ---
 

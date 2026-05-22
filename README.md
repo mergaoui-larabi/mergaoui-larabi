@@ -2,7 +2,7 @@
 
 ## Full Stack Developer 
 
-Welcome to my GitHub profile! I'm a passionate Java full stack developer currently studying at **Zone01 Oujda**, with a strong interest in building scalable enterprise web applications using modern Java technologies and frameworks.
+Welcome to my GitHub profile! I'm a passionate full stack developer currently studying at **Zone01 Oujda**, with a strong interest in building scalable enterprise web applications using modern technologies and frameworks.
 
 ---
 
